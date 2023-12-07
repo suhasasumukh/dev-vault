@@ -1,2 +1,2 @@
 # Developer Resource
-List of resource to improve skills of developers
+List of tools/resource/docs to improve skills of developers
