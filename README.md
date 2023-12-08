@@ -14,6 +14,18 @@ Scrimba| [scrimba.com](https://scrimba.com)
 Harvard CS50| [cs50.harvard.edu](https://cs50.harvard.edu/x/2023/)
 HTML Dog| [htmldog.com](https://htmldog.com)
 
+### YouTube Channels to learn Web Development
+|Name|Website|
+|:-------|:------|
+FreeCodeCamp|[youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
+STACKr| [youtube.com/c/codeSTACKr/](https://www.youtube.com/c/codeSTACKr)
+AniaKubow|[youtube.com/c/AniaKub%C3%B3w](https://www.youtube.com/c/AniaKub%C3%B3w)
+TraversyMedia|[youtube.com/c/TraversyMedia](https://www.youtube.com/c/TraversyMedia)
+Dev ED | [youtube.com/c/DevEd](https://www.youtube.com/c/DevEd)
+JavaScriptMastery| [youtube.com/c/JavaScriptMastery](https://www.youtube.com/c/JavaScriptMastery)
+WebDevSimplified| [youtube.com/c/WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
+Programming With Mosh | [youtube.com/c/programmingwithmosh](https://www.youtube.com/c/programmingwithmosh)
+
 <br>
 <hr>
 
