@@ -17,7 +17,7 @@ HTML Dog| [htmldog.com](https://htmldog.com)
 <br>
 <hr>
 
-### Contributors
+### 👨‍💻‍ Contributors
 <a href="https://github.com/suhasasumukh/developer-resource/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=suhasasumukh/developer-resource" />
 </a>
