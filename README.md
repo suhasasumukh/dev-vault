@@ -13,3 +13,11 @@ Guru99| [guru99.com](https://guru99.com)
 Scrimba| [scrimba.com](https://scrimba.com)
 Harvard CS50| [cs50.harvard.edu](https://cs50.harvard.edu/x/2023/)
 HTML Dog| [htmldog.com](https://htmldog.com)
+
+
+
+<a href="https://github.com/suhasasumukh/developer-resource/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=suhasasumukh/developer-resource" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
