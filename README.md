@@ -1,6 +1,16 @@
 # Developer Resource
 List of tools/resource/docs to improve skills of developers
 
+### Websites to learn ML:
+|Name|Website|
+|:-------|:------|
+Course Fast AI|[course.fast.ai](https://course.fast.ai)
+edX|[learning.edx.org](https://learning.edx.org/course/course-v1:Microsoft+DAT263x+2T2018/home)
+Essence of linear algebra |[youtube.com](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+Kaggle |[Intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+Tensorflow Tutorials | [tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+Towards Data Science | [towardsdatascience.com](https://towardsdatascience.com/?gi=4d4638d1b2fc)
+
 ### Websites to learn web development:
 |Name|Website|
 |:-------|:------|
